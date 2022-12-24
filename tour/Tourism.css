@@ -1,0 +1,27 @@
+.bg-container{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/ocean.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.head{
+    text-transform: capitalize;
+    color: rgb(98, 184, 42);
+}
+.p{
+    color: gray;
+}
+.card1{
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+    width: 100vw;
+    border-radius: 75px ;
+}
+.button1{
+    height: 30px;
+    width: 100px;
+    color: white;
+    background-color: dodgerblue;
+    border-width: 0px;
+    border-radius: 30px;
+}

@@ -1,0 +1,24 @@
+.bg-img{
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/seabg.png");
+    background-size: cover;
+    height: 100vh;
+}
+.head{
+    text-transform: capitalize;
+    color: white;
+    padding: 30px;
+}
+.text{
+    padding: 20px;
+    background-color: white;
+}
+.total-view{
+    margin: 40px;
+}
+.h{
+    font-family: italic;
+}
+.button1{
+    padding: 25px;
+    margin: 30px;
+}
